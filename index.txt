@@ -4,3 +4,5 @@ This is version 2 of my software, add data.
 Now file is found on gut hub.... push is done
 
  Welcome viju bhai.
+
+trying to clone file from github , ---copy url---use commend git clone "path of or url which is copyied ".
