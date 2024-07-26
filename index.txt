@@ -5,4 +5,4 @@ Now file is found on gut hub.... push is done
 
  Welcome viju bhai.
 
-trying to clone file from github , ---copy url---use commend git clone "path of or url which is copyied ".
+trying to clone file from github , ---copy http url---use commend git clone "path of or  http url which is copyied ".
